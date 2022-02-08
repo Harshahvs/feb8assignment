@@ -1,0 +1,3 @@
+k=float(input("enter the number: "))
+c=k*100000
+print(k,"kilometer =",c)
